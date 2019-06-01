@@ -1,0 +1,11 @@
+
+form .submit{
+    background: #e25f30;;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height:50px;
+    margin-top:20px;
+}
